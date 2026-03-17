@@ -6,6 +6,7 @@ Scripts:
   - test_RothC_LUC.R : this script shows how to run the model and illustrates the differences of RothC-LUC and RothC-default
   - RothC_LUC_Model.R : R script to call the RothC-LUC model
   - RothC_LUC.cpp : c++ script of the RothC-LUC model
+
 Data:
   - dataset-RothC-LUC.txt : compiled dataset including the main results produced in Seitz et al (2025)
 
