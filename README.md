@@ -2,6 +2,13 @@
 
 Welcome to the official repo for the RothC-LUC model that was tested and described in Seitz et al (2025). The model is a modification of the RothC model described in Coleman & Jenkinson (1996). RothC-LUC is implemented in R and C++ and uses the SoilR package by Sierra et al. (2012). This repo includes scripts needed to run the model, and the artificial data-set described in Seitz et al (2025) with modelling results from all 3 tested versions of RothC.
 
+Scripts:
+  - test_RothC_LUC.R : this script shows how to run the model and illustrates the differences of RothC-LUC and RothC-default
+  - RothC_LUC_Model.R : R script to call the RothC-LUC model
+  - RothC_LUC.cpp : c++ script of the RothC-LUC model
+Data:
+  - dataset-RothC-LUC.txt : compiled dataset including the main results produced in Seitz et al (2025)
+
 
 References
 
